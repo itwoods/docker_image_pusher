@@ -3,3 +3,4 @@
 #支持私库
 nginx
 jellyfin/jellyfin
+nextcloud/all-in-one:v9.5.1
