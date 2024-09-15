@@ -4,3 +4,4 @@
 nginx
 jellyfin/jellyfin
 nextcloud/all-in-one:latest
+jc21/nginx-proxy-manager:latest
