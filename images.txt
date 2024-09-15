@@ -3,6 +3,7 @@
 #支持私库
 nginx
 jellyfin/jellyfin
+jellyfin/jellyfin:10.9.10
 nextcloud/all-in-one:latest
 nextcloud:fpm
 jc21/nginx-proxy-manager:latest
