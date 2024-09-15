@@ -1,5 +1,5 @@
 #支持私库
-commons/nextcloud:2024.8.2
-commons/nginx
+nextcloud:2024.8.2
+nginx
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
