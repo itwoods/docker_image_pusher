@@ -2,6 +2,7 @@
 --platform=linux/arm64 xiaoyaliu/alist
 #支持私库
 nginx
+jc21/nginx-proxy-manager:v3
 jellyfin/jellyfin
 jellyfin/jellyfin:10.9.10
 nextcloud/all-in-one:latest
