@@ -11,6 +11,14 @@ nextcloud/aio-collabora:latest
 nextcloud/aio-talk:latest
 nextcloud/aio-imaginary:latest
 nextcloud/aio-postgresql:latest
+nextcloud/aio-apache:latest
+nextcloud/aio-nextcloud:latest
+nextcloud/aio-notify-push:latest
+nextcloud/aio-redis:latest
+nextcloud/aio-clamav:latest
+nextcloud/aio-onlyoffice:latest
+nextcloud/aio-fulltextsearch:latest
+
 nextcloud:fpm
 jc21/nginx-proxy-manager:latest
 pihole/pihole:2024.07.0
