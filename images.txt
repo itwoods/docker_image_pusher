@@ -18,6 +18,7 @@ nextcloud/aio-redis:latest
 nextcloud/aio-clamav:latest
 nextcloud/aio-onlyoffice:latest
 nextcloud/aio-fulltextsearch:latest
+nextcloud/aio-talk-recording:latest
 
 nextcloud:fpm
 jc21/nginx-proxy-manager:latest
