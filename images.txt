@@ -19,6 +19,7 @@ nextcloud/aio-clamav:latest
 nextcloud/aio-onlyoffice:latest
 nextcloud/aio-fulltextsearch:latest
 nextcloud/aio-talk-recording:latest
+nextcloud/aio-borgbackup:latest
 
 # nextcloud:fpm
 jc21/nginx-proxy-manager:latest
